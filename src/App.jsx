@@ -860,10 +860,6 @@ export default function FocusFlowApp() {
               >
                 Start Free →
               </button>
-
-              <button className="px-10 py-5 rounded-3xl border border-white/10 bg-white/5 hover:bg-white/10 transition-all duration-300 text-xl backdrop-blur-xl hover:scale-105">
-                Watch Demo
-              </button>
             </div>
 
             <div className="flex flex-wrap gap-8 text-gray-400 text-lg">
